@@ -1,4 +1,4 @@
-#Symfony 4.2.5 with API Platform
+##Symfony 4.2.5 with API Platform
 
 Create the database and its schema:
 
