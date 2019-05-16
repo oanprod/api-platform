@@ -33,7 +33,7 @@ services:
         PMA_HOST: db
         PMA_PORT: 3306
 
-#### Websites Symfony 2.8 ####
+#### Websites Symfony 4 ####
   api:
       build: ./docker/php7-fpm
       expose:
